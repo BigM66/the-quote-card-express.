@@ -15,8 +15,7 @@ body {
 }
 
 .background-img {
-    background-image: url("/img/mitchell-luo-FWoq_ldW1NQ-unsplash.jpg");
-;
+    background-image: url("../img/mitchell-luo-FWoq_ldWlNQ-unsplash.jpeg");
     background-size: cover;
     position: fixed;
     top: 0;
@@ -25,11 +24,10 @@ body {
     height: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
     opacity: .3;
     z-index: -1;
-
 }
+
 
 .quote-container {
     border: .25rem solid rgb(115, 121, 239);
